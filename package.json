@@ -1,0 +1,25 @@
+{
+  "name": "jakes_coffee_shop",
+  "version": "1.0.0",
+  "description": "the_first_EVER",
+  "main": "jake_refactor.js",
+  "scripts": {
+    "start": "jake_refactor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevCurt83/jakes-coffee-shop.git"
+  },
+  "keywords": [
+    "ecomerce",
+    "node.js"
+  ],
+  "author": "Curtis King",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "helmet": "^4.3.1",
+    "nodemon": "^2.0.7"
+  }
+}
