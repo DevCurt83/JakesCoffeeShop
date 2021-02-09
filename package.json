@@ -2,9 +2,9 @@
   "name": "jakes_coffee_shop",
   "version": "1.0.0",
   "description": "the_first_EVER",
-  "main": "jake_refactor.js",
+  "main": "index.js",
   "scripts": {
-    "start": "jake_refactor"
+    "start": "index.js"
   },
   "repository": {
     "type": "git",
